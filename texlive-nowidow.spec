@@ -3,7 +3,7 @@ Version:	24066
 Release:	2
 Summary:	Avoid widows
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nowidow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nowidow
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nowidow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nowidow.doc.r%{version}.tar.xz
